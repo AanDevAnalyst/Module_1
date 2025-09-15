@@ -1,6 +1,6 @@
 **Project: Rock Paper Scissors 🎮**
 
-A fun and interactive **Rock-Paper-Scissors game** built with [Streamlit](https://streamlit.io/) in Python.  
+A fun and interactive **Rock-Paper-Scissors game** built with [Streamlit](https://flexisafrsp.streamlit.app/) in Python.  
 Play against the computer with engaging **emoji-based choices** ✊ 🤚 ✌️ and real-time results.
 
 
